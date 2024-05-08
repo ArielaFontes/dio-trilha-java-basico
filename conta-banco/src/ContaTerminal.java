@@ -17,10 +17,9 @@ public class ContaTerminal {
 
         System.out.println("Sua agência é 0810");
 
-        System.out.println("Seu saldo é de 3.500");
+        System.out.println("Seu saldo é de 599,13");
 
         //imprimindo os dados obtidos pelo usuario
         System.out.println("Olá " + nome + " " + sobrenome + ", obrigado por criar uma conta em nosso banco, sua agência é 0810, conta " + conta +" e seu saldo 3.500 já está disponível para saque.");
-        
     }
 }
